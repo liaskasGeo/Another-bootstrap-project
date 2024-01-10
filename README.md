@@ -1,1 +1,1 @@
-# Drum-Kit
+# Another bootstrap project
